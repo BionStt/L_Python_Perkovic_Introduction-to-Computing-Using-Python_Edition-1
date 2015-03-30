@@ -88,6 +88,29 @@ print(findall('e+', 'beeeetbet bt'))  # if the regular expression matches 2 sub-
 print(findall('[^bt]+', 'beetbtbelt?bet, best'))
 print(findall('[bt]+', 'beetbtbelt?bet, best'))
 
+from re import search
+match = search('e+', 'beetbtbelt?bet, best')
+print(type(match))
+print(match.start())
+print(match.end())
+print(match.string)
+print(match.string[match.start():match.end()])
+
+
+def crawl1(url):
+    """ Recursive web crawler that calls analyze() on every web page
+    """
+
+    # analyze() returns a list of hyperlink URLs in web page url
+    links = analyze(url)
+    # recursively continue crawl from every link in links
+    for link in links:
+        try:        # try block because link may not be valid html file
+            crawl1(link)
+        except:     # if an exception is thrown
+            pass    # ignore and move on
+
+
 ############
 ### 11.1 ###
 ############
@@ -205,6 +228,25 @@ print(collector1.get_data())
 ############
 print('\nPP 11.4')
 
+# 11.4 does not ask for code
+
+############
+### 11.5 ###
+############
+print('\nPP 11.5')
+
+# pattern_a = a[abc]c
+# pattern_b = abc|xyz
+# pattern_c = a[b]*
+# pattern_d = [a-z]+
+# pattern_e = [a-zA-Z]*oe[a-zA-Z]*
+# pattern_f = <[^>]*>
+
+############
+### 11.6 ###
+############
+print('\nPP 11.6')
+
 
 def frequency(s):
     """ Takes a string as input, compute the frequency if every word
@@ -227,3 +269,8 @@ content1 = 'The pure and simple truth is\
             rarely pure and never simple'
 
 print(frequency(content1))
+
+############
+### 11.7 ###
+############
+print('\nPP 11.7')
