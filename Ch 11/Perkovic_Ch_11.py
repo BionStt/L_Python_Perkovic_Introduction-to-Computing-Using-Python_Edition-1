@@ -57,7 +57,7 @@ class LinkParser(HTMLParser):
 
 
 infile1 = open('links.html')
-content1 = infile.read()
+content1 = infile1.read()
 infile1.close()
 linkparser1 = LinkParser()
 linkparser1.feed(content1)
@@ -137,15 +137,15 @@ class MyHTMLParser(HTMLParser):
     def handle_endtag(self, tag):
         """ Print the end tag if any
         """
-        if  tag not in self.excluded_tags:
+        if tag not in self.excluded_tags:
             self.indent -= 4
             print('{}{} end'.format(' ' * self.indent, tag))
 
-infile = open('w3c.html')
-content = infile.read()
-infile.close()
-myparser1 = HTMLParser()
-myparser1.feed(content)
+infile1 = open('w3c.html')
+content1 = infile1.read()
+infile1.close()
+myparser1 = MyHTMLParser()
+myparser1.feed(content1)
 
 ############
 ### 11.3 ###
@@ -173,7 +173,7 @@ class Collector(HTMLParser):
             for attr in attrs:
                 if attr[0] == 'href':  # construct absolute URL
                     absolute = urljoin(self.url, attr[1])
-                    if absolute[:4] == 'http': # collect HTTP URLs
+                    if absolute[:4] == 'http':  # collect HTTP URLs
                         self.links.append(absolute)
 
     def handle_data(self, data):

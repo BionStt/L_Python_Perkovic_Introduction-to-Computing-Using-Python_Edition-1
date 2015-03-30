@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/../ICS 31/Lab7/lab7.py" line="301" />
     <bookmark url="file://$PROJECT_DIR$/Ch 09/Perkovic_Ch_09.2.py" line="828" />
   </component>
   <component name="ChangeListManager">
@@ -16,64 +15,64 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_11.coverage" NAME="Perkovic_Ch_11 Coverage Results" MODIFIED="1427169396002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 11" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_4.coverage" NAME="Perkovic Ch 4 Coverage Results" MODIFIED="1417740097056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 4" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_09_2.coverage" NAME="Perkovic_Ch_09.2 Coverage Results" MODIFIED="1425089585830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 09" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Unittests_in_Perkovic_Ch_08.coverage" NAME="Unittests in Perkovic_Ch_08 Coverage Results" MODIFIED="1425009415930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 08" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Test_Ch_10.coverage" NAME="Test Ch 10 Coverage Results" MODIFIED="1426553036937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 10" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovich_Ch_09.coverage" NAME="Perkovich_Ch_09 Coverage Results" MODIFIED="1424733054898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 09" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$probB.coverage" NAME="probB Coverage Results" MODIFIED="1421777291656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 07" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$lab4.coverage" NAME="lab4 Coverage Results" MODIFIED="1422336193353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31/Lab4" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_03.coverage" NAME="Perkovic Ch 03 Coverage Results" MODIFIED="1418778723264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 03" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_06_CS.coverage" NAME="Perkovic_Ch 06_CS Coverage Results" MODIFIED="1425006510659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 06" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$day.coverage" NAME="day Coverage Results" MODIFIED="1424733050867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 09" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_04.coverage" NAME="Perkovic Ch 04 Coverage Results" MODIFIED="1418778510685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 04" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_03_CS.coverage" NAME="Perkovic Ch 03 CS Coverage Results" MODIFIED="1421290716295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 03" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_08_8_35.coverage" NAME="Perkovic_Ch_08_8.35 Coverage Results" MODIFIED="1425011184706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 08" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_02_CS.coverage" NAME="Perkovic Ch 02 CS Coverage Results" MODIFIED="1420859627043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 02" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$PCH9test.coverage" NAME="PCH9test Coverage Results" MODIFIED="1422937950949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 09" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$lab7.coverage" NAME="lab7 Coverage Results" MODIFIED="1423846139271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31/Lab7" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkociv_Ch_05.coverage" NAME="Perkociv Ch 05 Coverage Results" MODIFIED="1418778337035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 05" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$lab5.coverage" NAME="lab5 Coverage Results" MODIFIED="1423635143758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31/Lab5" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Test_Ch_02.coverage" NAME="Test Ch 02 Coverage Results" MODIFIED="1426552777417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 02" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$calc.coverage" NAME="calc Coverage Results" MODIFIED="1424816437226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 09" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$ICStunes0.coverage" NAME="ICStunes0 Coverage Results" MODIFIED="1424301011635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31/Lab8" />
     <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$name.coverage" NAME="name Coverage Results" MODIFIED="1421561968140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 07" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$draw2.coverage" NAME="draw2 Coverage Results" MODIFIED="1424725004519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 09" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Test_Ch_06.coverage" NAME="Test Ch 06 Coverage Results" MODIFIED="1418959606274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 06" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$lab3.coverage" NAME="lab3 Coverage Results" MODIFIED="1422313105073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="J:/school stuff/usb back/ics 31" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$ICStunes0.coverage" NAME="ICStunes0 Coverage Results" MODIFIED="1424301011635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31/Lab8" />
     <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkociv_Ch_5.coverage" NAME="Perkociv Ch 5 Coverage Results" MODIFIED="1417773305774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 5" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_04_CS.coverage" NAME="Perkovic Ch 04 CS Coverage Results" MODIFIED="1418778719914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 04" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_10_CS.coverage" NAME="Perkovic_Ch_10_CS Coverage Results" MODIFIED="1425678728142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 10" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_07.coverage" NAME="Perkovic Ch 07 Coverage Results" MODIFIED="1421769891202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 07" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$lab6.coverage" NAME="lab6 Coverage Results" MODIFIED="1423693619918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31/Lab6" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$cards.coverage" NAME="cards Coverage Results" MODIFIED="1421798819638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 08" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$probA.coverage" NAME="probA Coverage Results" MODIFIED="1421769869913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 07" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$lab1d.coverage" NAME="lab1d Coverage Results" MODIFIED="1421971719532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$test_ch4.coverage" NAME="test ch4 Coverage Results" MODIFIED="1417749340361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 4" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$example.coverage" NAME="example Coverage Results" MODIFIED="1421566664875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 07" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_09_1.coverage" NAME="Perkovic_Ch_09.1 Coverage Results" MODIFIED="1425036518139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 09" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$lab1.coverage" NAME="lab1 Coverage Results" MODIFIED="1421971293678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$restaurantsf.coverage" NAME="restaurantsf Coverage Results" MODIFIED="1423647515768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31/Lab5" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Lab3.coverage" NAME="Lab3 Coverage Results" MODIFIED="1422321344261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31/Lab3" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$draw.coverage" NAME="draw Coverage Results" MODIFIED="1424722981331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 09" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$lab1e.coverage" NAME="lab1e Coverage Results" MODIFIED="1421974694390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Quiz_1.coverage" NAME="Quiz 1 Coverage Results" MODIFIED="1422608720524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31/Lab1" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$restaurantsg.coverage" NAME="restaurantsg Coverage Results" MODIFIED="1423696726067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31/Lab6" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$lab9.coverage" NAME="lab9 Coverage Results" MODIFIED="1424721901086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31/Lab9" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_08_bj.coverage" NAME="Perkovic_Ch_08_bj Coverage Results" MODIFIED="1425007294611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 08" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$quiz2.coverage" NAME="quiz2 Coverage Results" MODIFIED="1422611499766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31/Lab2" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_08.coverage" NAME="Perkovic Ch 08 Coverage Results" MODIFIED="1421968917657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 08" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$blackjack.coverage" NAME="blackjack Coverage Results" MODIFIED="1418951049919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 06" />
     <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$lab2.coverage" NAME="lab2 Coverage Results" MODIFIED="1422062434376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31/Lab2" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_08_CS.coverage" NAME="Perkovic Ch 08 CS Coverage Results" MODIFIED="1421968901442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 08" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_10.coverage" NAME="Perkovic_Ch_10 Coverage Results" MODIFIED="1426556834689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 10" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$restaurantsd.coverage" NAME="restaurantsd Coverage Results" MODIFIED="1423627710079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31/Lab5" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$day2.coverage" NAME="day2 Coverage Results" MODIFIED="1424732819696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 09" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_02.coverage" NAME="Perkovic Ch 02 Coverage Results" MODIFIED="1420857717143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 02" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_06.coverage" NAME="Perkovic Ch 06 Coverage Results" MODIFIED="1420854416134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 06" />
     <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$lab8.coverage" NAME="lab8 Coverage Results" MODIFIED="1424167573862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31/Lab8" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$lab7.coverage" NAME="lab7 Coverage Results" MODIFIED="1423846139271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31/Lab7" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_04_CS.coverage" NAME="Perkovic Ch 04 CS Coverage Results" MODIFIED="1418778719914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 04" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_09_1.coverage" NAME="Perkovic_Ch_09.1 Coverage Results" MODIFIED="1425036518139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 09" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_08.coverage" NAME="Perkovic Ch 08 Coverage Results" MODIFIED="1421968917657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 08" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$probA.coverage" NAME="probA Coverage Results" MODIFIED="1421769869913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 07" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$example.coverage" NAME="example Coverage Results" MODIFIED="1421566664875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 07" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_03_CS.coverage" NAME="Perkovic Ch 03 CS Coverage Results" MODIFIED="1421290716295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 03" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Test_Ch_02.coverage" NAME="Test Ch 02 Coverage Results" MODIFIED="1426552777417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 02" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_09_2.coverage" NAME="Perkovic_Ch_09.2 Coverage Results" MODIFIED="1425089585830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 09" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$lab6.coverage" NAME="lab6 Coverage Results" MODIFIED="1423693619918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31/Lab6" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkociv_Ch_05.coverage" NAME="Perkociv Ch 05 Coverage Results" MODIFIED="1418778337035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 05" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$lab1e.coverage" NAME="lab1e Coverage Results" MODIFIED="1421974694390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$restaurantsf.coverage" NAME="restaurantsf Coverage Results" MODIFIED="1423647515768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31/Lab5" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Unittests_in_Perkovic_Ch_08.coverage" NAME="Unittests in Perkovic_Ch_08 Coverage Results" MODIFIED="1425009415930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 08" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_08_bj.coverage" NAME="Perkovic_Ch_08_bj Coverage Results" MODIFIED="1425007294611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 08" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovich_Ch_09.coverage" NAME="Perkovich_Ch_09 Coverage Results" MODIFIED="1424733054898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 09" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$lab5.coverage" NAME="lab5 Coverage Results" MODIFIED="1423635143758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31/Lab5" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_03.coverage" NAME="Perkovic Ch 03 Coverage Results" MODIFIED="1418778723264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 03" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$lab1.coverage" NAME="lab1 Coverage Results" MODIFIED="1421971293678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Lab3.coverage" NAME="Lab3 Coverage Results" MODIFIED="1422321344261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31/Lab3" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_02_CS.coverage" NAME="Perkovic Ch 02 CS Coverage Results" MODIFIED="1420859627043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 02" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$cards.coverage" NAME="cards Coverage Results" MODIFIED="1421798819638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 08" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Test_Ch_06.coverage" NAME="Test Ch 06 Coverage Results" MODIFIED="1418959606274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 06" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Quiz_1.coverage" NAME="Quiz 1 Coverage Results" MODIFIED="1422608720524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31/Lab1" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$quiz2.coverage" NAME="quiz2 Coverage Results" MODIFIED="1422611499766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31/Lab2" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$blackjack.coverage" NAME="blackjack Coverage Results" MODIFIED="1418951049919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 06" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_06_CS.coverage" NAME="Perkovic_Ch 06_CS Coverage Results" MODIFIED="1425006510659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 06" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$restaurantsg.coverage" NAME="restaurantsg Coverage Results" MODIFIED="1423696726067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31/Lab6" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$draw.coverage" NAME="draw Coverage Results" MODIFIED="1424722981331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 09" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_02.coverage" NAME="Perkovic Ch 02 Coverage Results" MODIFIED="1420857717143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 02" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$day.coverage" NAME="day Coverage Results" MODIFIED="1424733050867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 09" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_11.coverage" NAME="Perkovic_Ch_11 Coverage Results" MODIFIED="1427680300240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 11" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$day2.coverage" NAME="day2 Coverage Results" MODIFIED="1424732819696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 09" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$restaurantsd.coverage" NAME="restaurantsd Coverage Results" MODIFIED="1423627710079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31/Lab5" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_10_CS.coverage" NAME="Perkovic_Ch_10_CS Coverage Results" MODIFIED="1425678728142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 10" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_10.coverage" NAME="Perkovic_Ch_10 Coverage Results" MODIFIED="1426556834689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 10" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_07.coverage" NAME="Perkovic Ch 07 Coverage Results" MODIFIED="1421769891202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 07" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$lab3.coverage" NAME="lab3 Coverage Results" MODIFIED="1422313105073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="J:/school stuff/usb back/ics 31" />
     <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$test.coverage" NAME="test Coverage Results" MODIFIED="1424725340145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 09" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$lab1d.coverage" NAME="lab1d Coverage Results" MODIFIED="1421971719532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_08_CS.coverage" NAME="Perkovic Ch 08 CS Coverage Results" MODIFIED="1421968901442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 08" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_4.coverage" NAME="Perkovic Ch 4 Coverage Results" MODIFIED="1417740097056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 4" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_06.coverage" NAME="Perkovic Ch 06 Coverage Results" MODIFIED="1420854416134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 06" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$draw2.coverage" NAME="draw2 Coverage Results" MODIFIED="1424725004519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 09" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_08_8_35.coverage" NAME="Perkovic_Ch_08_8.35 Coverage Results" MODIFIED="1425011184706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 08" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_04.coverage" NAME="Perkovic Ch 04 Coverage Results" MODIFIED="1418778510685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 04" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$test_ch4.coverage" NAME="test ch4 Coverage Results" MODIFIED="1417749340361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 4" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$lab4.coverage" NAME="lab4 Coverage Results" MODIFIED="1422336193353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31/Lab4" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$calc.coverage" NAME="calc Coverage Results" MODIFIED="1424816437226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 09" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$PCH9test.coverage" NAME="PCH9test Coverage Results" MODIFIED="1422937950949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 09" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$probB.coverage" NAME="probB Coverage Results" MODIFIED="1421777291656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 07" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$lab9.coverage" NAME="lab9 Coverage Results" MODIFIED="1424721901086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31/Lab9" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Test_Ch_10.coverage" NAME="Test Ch 10 Coverage Results" MODIFIED="1426553036937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 10" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -102,8 +101,8 @@
       <file leaf-file-name="Perkovic_Ch_11.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Ch 11/Perkovic_Ch_11.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.89183456" vertical-offset="3035" max-vertical-offset="3978">
-              <caret line="228" column="26" selection-start-line="228" selection-start-column="26" selection-end-line="228" selection-end-column="26" />
+            <state vertical-scroll-proportion="-1.3467095" vertical-offset="3355" max-vertical-offset="3978">
+              <caret line="148" column="0" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -112,7 +111,7 @@
       <file leaf-file-name="ch11.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Ch 11/ch11.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2142" max-vertical-offset="3757">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2499" max-vertical-offset="3757">
               <caret line="142" column="0" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
               <folding />
             </state>
@@ -230,147 +229,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Introduction to Computing Using Python - Ljubomir Perkovic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Introduction to Computing Using Python - Ljubomir Perkovic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Introduction to Computing Using Python - Ljubomir Perkovic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ch 11" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Introduction to Computing Using Python - Ljubomir Perkovic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Introduction to Computing Using Python - Ljubomir Perkovic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ch 10" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Introduction to Computing Using Python - Ljubomir Perkovic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Introduction to Computing Using Python - Ljubomir Perkovic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ch 09" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Introduction to Computing Using Python - Ljubomir Perkovic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Introduction to Computing Using Python - Ljubomir Perkovic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ch 08" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Introduction to Computing Using Python - Ljubomir Perkovic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Introduction to Computing Using Python - Ljubomir Perkovic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ch 07" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Introduction to Computing Using Python - Ljubomir Perkovic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Introduction to Computing Using Python - Ljubomir Perkovic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ch 06" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Introduction to Computing Using Python - Ljubomir Perkovic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Introduction to Computing Using Python - Ljubomir Perkovic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ch 05" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Introduction to Computing Using Python - Ljubomir Perkovic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Introduction to Computing Using Python - Ljubomir Perkovic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ch 04" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Introduction to Computing Using Python - Ljubomir Perkovic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Introduction to Computing Using Python - Ljubomir Perkovic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ch 03" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Introduction to Computing Using Python - Ljubomir Perkovic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Introduction to Computing Using Python - Ljubomir Perkovic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ch 02" />
+              <option name="myItemId" value="Introduction-to-Computing-Using-Python---Ljubomir-Perkovic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -380,7 +239,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../ICS 31/Lab1/lab1e.py" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -578,6 +437,9 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -599,9 +461,6 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -706,10 +565,16 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3285273" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15307058" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921812" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32955715" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32886598" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921812" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -740,31 +605,27 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../ICS 31/Lab4/lab4.py">
+    <entry file="file://$PROJECT_DIR$/Ch 10/Perkovic_Ch_10.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.05704698" vertical-offset="3213" max-vertical-offset="7939">
-          <caret line="190" column="0" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="5355" max-vertical-offset="18377">
+          <caret line="318" column="30" selection-start-line="318" selection-start-column="30" selection-end-line="318" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ICS 31/Lab5/restaurantsd.py">
+    <entry file="file://$PROJECT_DIR$/Ch 11/Perkovic_Ch_11.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33904108" vertical-offset="360" max-vertical-offset="2669">
-          <caret line="27" column="92" selection-start-line="27" selection-start-column="92" selection-end-line="27" selection-end-column="92" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="3035" max-vertical-offset="3978">
+          <caret line="228" column="26" selection-start-line="228" selection-start-column="26" selection-end-line="228" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ICS 31/Lab2/lab2.py">
+    <entry file="file://$PROJECT_DIR$/Ch 11/ch11.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1207" max-vertical-offset="5219">
-          <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="94" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ICS 31/Lab5/restaurantsf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.3897765" vertical-offset="1632" max-vertical-offset="4318">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="2142" max-vertical-offset="3757">
+          <caret line="142" column="0" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -775,87 +636,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ICS 31/Lab5/lab5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="5740" max-vertical-offset="7514">
-          <caret line="351" column="55" selection-start-line="351" selection-start-column="55" selection-end-line="351" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Ch 04/Perkovic_Ch_04.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="4871" max-vertical-offset="11798">
           <caret line="291" column="18" selection-start-line="291" selection-start-column="18" selection-end-line="291" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ICS 31/Lab8/menu2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.4074073" vertical-offset="0" max-vertical-offset="221">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ICS 31/Lab8/menu1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ICS 31/Lab8/menu3X.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14190318" vertical-offset="0" max-vertical-offset="599">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ICS 31/Lab6/lab6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="5780" max-vertical-offset="6681">
-          <caret line="358" column="20" selection-start-line="358" selection-start-column="20" selection-end-line="358" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ICS 31/Lab7/lab7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3213" max-vertical-offset="6171">
-          <caret line="194" column="0" selection-start-line="194" selection-start-column="0" selection-end-line="196" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ICS 31/Lab8/lab8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6494">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ICS 31/Lab6/restaurantsg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="5134">
-          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ICS 31/Lab8/ICStunes0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1227" max-vertical-offset="6494">
-          <caret line="357" column="51" selection-start-line="357" selection-start-column="51" selection-end-line="357" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ICS 31/Lab9/lab9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2371" max-vertical-offset="3315">
-          <caret line="158" column="0" selection-start-line="158" selection-start-column="0" selection-end-line="158" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -923,13 +707,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Ch 06/nasdaq.txt">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3485">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Ch 09/calc.py">
@@ -1088,14 +872,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ch 11/ch11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2142" max-vertical-offset="3757">
-          <caret line="142" column="0" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Ch 10/Perkovic_Ch_10.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="5355" max-vertical-offset="18377">
@@ -1104,10 +880,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Ch 11/ch11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2142" max-vertical-offset="3757">
+          <caret line="142" column="0" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Ch 11/Perkovic_Ch_11.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.89183456" vertical-offset="3035" max-vertical-offset="3978">
-          <caret line="228" column="26" selection-start-line="228" selection-start-column="26" selection-end-line="228" selection-end-column="26" />
+        <state vertical-scroll-proportion="-1.3467095" vertical-offset="3355" max-vertical-offset="3978">
+          <caret line="148" column="0" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
           <folding />
         </state>
       </provider>
