@@ -1,5 +1,4 @@
 __author__ = 'Rolando'
-
 #############################################
 ### Perkovic Intro to Python              ###
 #### CH 11: The Web and Search           ####
@@ -34,11 +33,11 @@ print(get_source('http://www.google.com'))
 
 from html.parser import HTMLParser
 
-infile = open('w3c.html')
-content = infile.read()
-infile.close()
+infile1 = open('w3c.html')
+content1 = infile1.read()
+infile1.close()
 parser1 = HTMLParser()
-parser1.feed(content)
+parser1.feed(content1)
 
 
 class LinkParser(HTMLParser):
@@ -89,27 +88,13 @@ print(findall('[^bt]+', 'beetbtbelt?bet, best'))
 print(findall('[bt]+', 'beetbtbelt?bet, best'))
 
 from re import search
-match = search('e+', 'beetbtbelt?bet, best')
-print(type(match))
-print(match.start())
-print(match.end())
-print(match.string)
-print(match.string[match.start():match.end()])
 
-
-def crawl1(url):
-    """ Recursive web crawler that calls analyze() on every web page
-    """
-
-    # analyze() returns a list of hyperlink URLs in web page url
-    links = analyze(url)
-    # recursively continue crawl from every link in links
-    for link in links:
-        try:        # try block because link may not be valid html file
-            crawl1(link)
-        except:     # if an exception is thrown
-            pass    # ignore and move on
-
+match1 = search('e+', 'beetbtbelt?bet, best')
+print(type(match1))
+print(match1.start())
+print(match1.end())
+print(match1.string)
+print(match1.string[match1.start():match1.end()])
 
 ############
 ### 11.1 ###
@@ -219,8 +204,8 @@ resource1 = urlopen(url1)
 content1 = resource1.read().decode()
 collector1 = Collector(url1)
 collector1.feed(content1)
-for link in collector1.get_links():
-    print(link)
+for link1 in collector1.get_links():
+    print(link1)
 print(collector1.get_data())
 
 ############
@@ -235,12 +220,12 @@ print('\nPP 11.4')
 ############
 print('\nPP 11.5')
 
-# pattern_a = a[abc]c
-# pattern_b = abc|xyz
-# pattern_c = a[b]*
-# pattern_d = [a-z]+
-# pattern_e = [a-zA-Z]*oe[a-zA-Z]*
-# pattern_f = <[^>]*>
+# pattern_a5 = 'a[abc]c'
+# pattern_b5 = 'abc|xyz'
+# pattern_c5 = 'a[b]*'
+# pattern_d5 = '[a-z]+'
+# pattern_e5 = '[a-zA-Z]*oe[a-zA-Z]*'
+# pattern_f5 = '<[^>]*>'
 
 ############
 ### 11.6 ###
@@ -274,3 +259,121 @@ print(frequency(content1))
 ### 11.7 ###
 ############
 print('\nPP 11.7')
+
+
+class Crawler2():
+    """ Recursively crawls through HTML links
+    """
+
+    def __init__(self):
+        """ Initializes set of visited websites
+        """
+        self.visited = set()
+
+    def analyze(self, url):
+        """ Returns a list of links in their absolute format
+            in the web page URL
+        """
+        print('Visiting', url)
+
+        content = urlopen(url).read().decode()
+        collector = Collector(url)
+        collector.feed(content)
+        urls = collector.get_links()
+
+        content = collector.get_data()
+        freq = self.frequency(content)
+
+        # print the frequency of every tet data word in the web page
+        print('\n{:50} {:10} {:5}'.format('URL', 'word', 'count'))
+        for word in freq:
+            print('{:50} {:10} {:5}'.format(url, word, freq[word]))
+
+        # print the http links found in web page
+        print('\n{:50} {:10}'.format('URL', 'link'))
+        for link in urls:
+            print('{:50} {:10}'.format(url, link))
+
+        return urls
+
+    def crawl(self, url):
+        """ Recursive web crawler that calls analyze() on every web page visited
+        """
+        self.visited.add(url)
+
+        links = self.analyze(url)
+
+        for link in links:
+            if link not in self.visited:
+                try:
+                    self.crawl(link)
+                except:
+                    pass
+
+    def frequency(self, s):
+        """ Takes a sting as input and computes the frequency of
+            every word in the string and returns a dictionary
+            that maps words in the string to their frequency
+        """
+        pattern = '[a-zA-Z]+'
+        words = findall(pattern, s)
+        dictionary = {}
+
+        for word in words:
+            if word in dictionary:
+                dictionary[word] += 1
+            else:
+                dictionary[word] = 1
+
+        return dictionary
+
+crawler2 = Crawler2()
+crawler2.crawl('http://reed.cs.depaul.edu/lperkovic/one.html')
+
+############
+### 11.8 ###
+############
+print('\nPP 11.8')
+
+# 11.8 does not ask for code
+
+############
+### 11.9 ###
+############
+print('\nPP 11.9')
+
+# pattern_a = '[a-zA-Z]*'[a-zA-Z]*'
+# pattern_b = '[a-z]+[a-z]+[a-z]+'
+# pattern_c = '^0[0-9]+'
+# pattern_d = '[0-9]+'
+# pattern_e = '\-[0-9]+'
+# pattern_f = '\-?[0-9]+
+# pattern_g = '\-?[0-9]+\.[0-9]+
+
+#############
+### 11.10 ###
+#############
+print('\nPP 11.10')
+
+infile1 = open('frankenstein.txt')
+content1 = infile1.read()
+infile1.close()
+
+# a
+print(findall('Frankenstein', content1))
+# b
+print(findall('[0-9]+', content1))
+# c
+print(findall('[a-zA-Z]*ible', content1))
+# d
+print(findall('[A-Z][a-zA-Z]*y',content1))
+# e
+print(findall('horror of[ a-z]*[ a-z]*', content1))
+# f
+print(findall('[a-zA-Z]+ death', content1))
+# g
+print(findall('[.?!].*laboratory[.?!]', content1))
+#############
+### 11.11 ###
+#############
+print('\nPP 11.11')

@@ -1,13 +1,15 @@
 __author__ = 'Rolando'
-
-
+#############################################
+### Perkovic Intro to Python              ###
+#### CH 10: Recursion                    ####
+##### PG 351 Ch 10                      #####
+#############################################
 
 # 10.1
 
 # def countdown0(n):
 #     print(n)
 #     countdown0(n - 1)
-
 
 def countdown(n):
     """ Counts down to 0
