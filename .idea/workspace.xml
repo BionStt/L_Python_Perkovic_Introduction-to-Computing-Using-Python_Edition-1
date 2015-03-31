@@ -51,7 +51,7 @@
     <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$draw.coverage" NAME="draw Coverage Results" MODIFIED="1424722981331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 09" />
     <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_02.coverage" NAME="Perkovic Ch 02 Coverage Results" MODIFIED="1420857717143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 02" />
     <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$day.coverage" NAME="day Coverage Results" MODIFIED="1424733050867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 09" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_11.coverage" NAME="Perkovic_Ch_11 Coverage Results" MODIFIED="1427692386721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 11" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_11.coverage" NAME="Perkovic_Ch_11 Coverage Results" MODIFIED="1427749833562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 11" />
     <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$day2.coverage" NAME="day2 Coverage Results" MODIFIED="1424732819696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 09" />
     <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$restaurantsd.coverage" NAME="restaurantsd Coverage Results" MODIFIED="1423627710079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31/Lab5" />
     <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_10_CS.coverage" NAME="Perkovic_Ch_10_CS Coverage Results" MODIFIED="1425678728142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 10" />
@@ -72,6 +72,7 @@
     <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$PCH9test.coverage" NAME="PCH9test Coverage Results" MODIFIED="1422937950949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 09" />
     <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$probB.coverage" NAME="probB Coverage Results" MODIFIED="1421777291656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 07" />
     <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$lab9.coverage" NAME="lab9 Coverage Results" MODIFIED="1424721901086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31/Lab9" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_11_CS.coverage" NAME="Perkovic_Ch_11_CS Coverage Results" MODIFIED="1427745466274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 11" />
     <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Test_Ch_10.coverage" NAME="Test Ch 10 Coverage Results" MODIFIED="1426553036937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 10" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -91,8 +92,8 @@
       <file leaf-file-name="Perkovic_Ch_10.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Ch 10/Perkovic_Ch_10.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="5355" max-vertical-offset="18377">
-              <caret line="318" column="30" selection-start-line="318" selection-start-column="30" selection-end-line="318" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="18411">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -101,9 +102,21 @@
       <file leaf-file-name="Perkovic_Ch_11.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Ch 11/Perkovic_Ch_11.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33333334" vertical-offset="1467" max-vertical-offset="4777">
-              <caret line="104" column="12" selection-start-line="104" selection-start-column="12" selection-end-line="104" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.40201005" vertical-offset="5948" max-vertical-offset="6545">
+              <caret line="364" column="27" selection-start-line="364" selection-start-column="27" selection-end-line="364" selection-end-column="27" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Perkovic_Ch_11_CS.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ch 11/Perkovic_Ch_11_CS.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2458" max-vertical-offset="3655">
+              <caret line="162" column="7" selection-start-line="162" selection-start-column="7" selection-end-line="173" selection-end-column="50" />
+              <folding>
+                <element signature="e#254#288#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -111,8 +124,8 @@
       <file leaf-file-name="ch11.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Ch 11/ch11.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1326" max-vertical-offset="3757">
-              <caret line="142" column="0" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1336" max-vertical-offset="3757">
+              <caret line="90" column="48" selection-start-line="90" selection-start-column="48" selection-end-line="90" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -128,7 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Ch 07/example.py" />
         <option value="$PROJECT_DIR$/Ch 07/probB.py" />
         <option value="$PROJECT_DIR$/Ch 08/cards.py" />
         <option value="$PROJECT_DIR$/Ch 06/Perkovic Ch 06.py" />
@@ -178,6 +190,7 @@
         <option value="$PROJECT_DIR$/Ch 02/Test Ch 02.py" />
         <option value="$PROJECT_DIR$/Ch 10/Test Ch 10.py" />
         <option value="$PROJECT_DIR$/Ch 10/Perkovic_Ch_10.py" />
+        <option value="$PROJECT_DIR$/Ch 11/Perkovic_Ch_11_CS.py" />
         <option value="$PROJECT_DIR$/Ch 11/Perkovic_Ch_11.py" />
       </list>
     </option>
@@ -309,25 +322,6 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="Perkovic_Ch_10_CS" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ch 10" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Introduction to Computing Using Python - Ljubomir Perkovic" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch 10/Perkovic_Ch_10_CS.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
     <configuration default="false" name="Test Ch 10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -361,6 +355,25 @@
       <module name="Introduction to Computing Using Python - Ljubomir Perkovic" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch 11/Perkovic_Ch_11.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Perkovic_Ch_11_CS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ch 11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Introduction to Computing Using Python - Ljubomir Perkovic" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch 11/Perkovic_Ch_11_CS.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -519,17 +532,17 @@
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.Test Ch 02" />
       <item index="1" class="java.lang.String" itemvalue="Python.Perkovic_Ch_10" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Perkovic_Ch_10_CS" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Test Ch 10" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Perkovic_Ch_11" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Test Ch 10" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Perkovic_Ch_11" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Perkovic_Ch_11_CS" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.Perkovic_Ch_11" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Perkovic_Ch_10" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Test Ch 10" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Test Ch 02" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Perkovic_Ch_10_CS" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Perkovic_Ch_11_CS" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Perkovic_Ch_10" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Test Ch 10" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Test Ch 02" />
       </list>
     </recent_temporary>
   </component>
@@ -578,7 +591,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3285273" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15307058" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921812" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32886598" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32867885" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -827,21 +840,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ch 09/Perkovic_Ch_09.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8415">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="5" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ch 09/Perkovic_Ch_09.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5024" vertical-offset="27787" max-vertical-offset="28747">
-          <caret line="1656" column="42" selection-start-line="1656" selection-start-column="42" selection-end-line="1656" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Ch 02/Perkovic_Ch_02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.2496" vertical-offset="2031" max-vertical-offset="7990">
@@ -898,13 +896,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ch 10/Perkovic_Ch_10_CS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="199" max-vertical-offset="1785">
-          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Ch 10/Test Ch 10.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.10914928" vertical-offset="0" max-vertical-offset="623">
@@ -933,26 +924,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Ch 09/Perkovic_Ch_09.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.028475711" vertical-offset="0" max-vertical-offset="8415">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="5" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch 10/Perkovic_Ch_10_CS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1785">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch 09/Perkovic_Ch_09.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.00335" vertical-offset="26308" max-vertical-offset="28747">
+          <caret line="1656" column="42" selection-start-line="1656" selection-start-column="42" selection-end-line="1656" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Ch 10/Perkovic_Ch_10.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="5355" max-vertical-offset="18377">
-          <caret line="318" column="30" selection-start-line="318" selection-start-column="30" selection-end-line="318" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="18411">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Ch 11/ch11.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2142" max-vertical-offset="3757">
-          <caret line="142" column="0" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="3757">
+          <caret line="90" column="48" selection-start-line="90" selection-start-column="48" selection-end-line="90" selection-end-column="48" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch 11/Perkovic_Ch_11_CS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2458" max-vertical-offset="3655">
+          <caret line="162" column="7" selection-start-line="162" selection-start-column="7" selection-end-line="173" selection-end-column="50" />
+          <folding>
+            <element signature="e#254#288#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Ch 11/Perkovic_Ch_11.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334" vertical-offset="1467" max-vertical-offset="4777">
-          <caret line="104" column="12" selection-start-line="104" selection-start-column="12" selection-end-line="104" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.40201005" vertical-offset="5948" max-vertical-offset="6545">
+          <caret line="364" column="27" selection-start-line="364" selection-start-column="27" selection-end-line="364" selection-end-column="27" />
           <folding />
         </state>
       </provider>
