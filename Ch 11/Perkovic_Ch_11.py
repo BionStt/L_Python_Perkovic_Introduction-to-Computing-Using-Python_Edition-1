@@ -342,3 +342,115 @@ print('\nPP 11.17')
 print('\nPP 11.18')
 
 # 11.18 done in Ch_11_CS
+
+#############
+### 11.19 ###
+#############
+print('\nPP 11.19')
+
+infile1 = open('frankenstein.txt')
+content1 = infile1.read()
+infile1.close()
+
+
+import time
+
+
+def timing(func, n1, n2):
+    """ Runs func on input returned by build_input
+    """
+
+    start = time.time()
+    func(n1, n2)
+    end = time.time()
+
+    return end - start
+
+
+def timing_analysis(func, n1, n2, runs):
+    """ Prints average runtime of function func on input of
+        size start, start+inc, start+(inc*2), ..., up to stop
+    """
+
+    acc = 0.0
+
+    for i in range(runs):
+        acc += timing(func, n1, n2)
+
+    format_str = 'Run time of {}(\'{}\', \'{}\') is {:.7f} seconds.'
+    print(format_str.format(func.__name__, n1, n2, acc / runs))
+
+# replace
+
+
+def test_replace(n1, n2):
+    """ Removes periods
+    """
+
+    global content1
+
+    return content1.replace(n1, n2)
+
+print(timing_analysis(test_replace, '.', ' ', 10))
+
+# translate
+
+
+def test_translate(n1, n2):
+    """ Translates content to remove periods
+    """
+
+    global content1
+
+    table = str.maketrans(n1, n2)
+    result = content1.translate(table)
+
+    return result
+
+# print(timing_analysis(test_translate, '.', ' ', 10))
+
+# regex
+
+
+def test_regex(n1, n2):
+    """ Use regex to remove periods
+    """
+
+    global content1
+
+    pattern = '[^\\' + n1 + ']*\\' + n1
+    strings = findall(pattern, content1)
+
+    return n2.join(strings)
+
+print(timing_analysis(test_regex, '.', ' ', 10))
+
+#############
+### 11.20 ###
+#############
+print('\nPP 11.20')
+
+
+def scary(file):
+    """ Takes a text file as input and returns a dictionary
+        of all the words in the file using regex
+    """
+
+    infile = open(file)
+    content = infile.read()
+    infile.close()
+
+    strings = sorted(list(set(findall('[a-z]+', content.lower()))))
+
+    outfile = open('scary_dictionary.txt', 'w')
+    for i in strings:
+        outfile.write(i+ '\n')
+    outfile.close()
+
+scary('frankenstein.txt')
+
+
+#############
+### 11.21 ###
+#############
+print('\nPP 11.21')

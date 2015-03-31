@@ -146,8 +146,6 @@ def crawl2(url):
 
 print(crawl2('http://reed.cs.depaul.edu/lperkovic/one.html'))
 
-
-
 #################################################################### start of 11.15
 ### 11.15 ###
 #############
@@ -188,6 +186,7 @@ print('\nPP 11.17')
 
 visited_17 = set()
 
+
 def crawl_17(url, host=''):
     """ A recursive web crawler that calls analyze() on every web page visited,
         stores pages visited to prevent re-crawling,
@@ -201,7 +200,7 @@ def crawl_17(url, host=''):
         host = match.string[match.start():match.end()]
         print(host)
 
-    global visited_1
+    global visited_17
     visited_17.add(url)
 
     links = analyze(url)
@@ -222,6 +221,7 @@ print(crawl_17('http://reed.cs.depaul.edu/lperkovic/one.html'))
 print('\nPP 11.18')
 
 visited_18 = set()
+
 
 def crawl_18(url, starter=''):
 

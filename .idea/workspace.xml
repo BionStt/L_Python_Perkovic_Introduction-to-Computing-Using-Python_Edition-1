@@ -51,7 +51,7 @@
     <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$draw.coverage" NAME="draw Coverage Results" MODIFIED="1424722981331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 09" />
     <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_02.coverage" NAME="Perkovic Ch 02 Coverage Results" MODIFIED="1420857717143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 02" />
     <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$day.coverage" NAME="day Coverage Results" MODIFIED="1424733050867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 09" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_11.coverage" NAME="Perkovic_Ch_11 Coverage Results" MODIFIED="1427821915599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 11" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_11.coverage" NAME="Perkovic_Ch_11 Coverage Results" MODIFIED="1427831764653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 11" />
     <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$day2.coverage" NAME="day2 Coverage Results" MODIFIED="1424732819696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 09" />
     <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$restaurantsd.coverage" NAME="restaurantsd Coverage Results" MODIFIED="1423627710079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ICS 31/Lab5" />
     <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_10_CS.coverage" NAME="Perkovic_Ch_10_CS Coverage Results" MODIFIED="1425678728142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 10" />
@@ -89,11 +89,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Perkovic_Ch_10.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Ch 10/Perkovic_Ch_10.py">
+      <file leaf-file-name="Perkovic_Ch_04.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ch 04/Perkovic_Ch_04.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="18411">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state vertical-scroll-proportion="-6.75" vertical-offset="4775" max-vertical-offset="11798">
+              <caret line="292" column="13" selection-start-line="292" selection-start-column="8" selection-end-line="292" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Perkovic_Ch_06.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ch 06/Perkovic_Ch_06.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="12499" max-vertical-offset="20808">
+              <caret line="748" column="13" selection-start-line="748" selection-start-column="13" selection-end-line="748" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -102,8 +112,8 @@
       <file leaf-file-name="Perkovic_Ch_11.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Ch 11/Perkovic_Ch_11.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.91457283" vertical-offset="5285" max-vertical-offset="5933">
-              <caret line="343" column="24" selection-start-line="343" selection-start-column="24" selection-end-line="343" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.20268007" vertical-offset="7223" max-vertical-offset="7837">
+              <caret line="432" column="0" selection-start-line="432" selection-start-column="0" selection-end-line="433" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -112,8 +122,8 @@
       <file leaf-file-name="Perkovic_Ch_11_CS.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Ch 11/Perkovic_Ch_11_CS.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="3704" max-vertical-offset="5474">
-              <caret line="235" column="0" selection-start-line="235" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="3609" max-vertical-offset="5474">
+              <caret line="218" column="13" selection-start-line="218" selection-start-column="13" selection-end-line="218" selection-end-column="13" />
               <folding>
                 <element signature="e#254#288#0" expanded="true" />
               </folding>
@@ -279,7 +289,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.Perkovic_Ch_11_CS">
+  <component name="RunManager" selected="Python.Perkovic_Ch_11">
     <configuration default="false" name="Test Ch 02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -538,8 +548,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Perkovic_Ch_11_CS" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Perkovic_Ch_11" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Perkovic_Ch_11" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Perkovic_Ch_11_CS" />
         <item index="2" class="java.lang.String" itemvalue="Python.Perkovic_Ch_10" />
         <item index="3" class="java.lang.String" itemvalue="Python.Test Ch 10" />
         <item index="4" class="java.lang.String" itemvalue="Python.Test Ch 02" />
@@ -585,6 +595,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3285273" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921812" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32867885" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299725" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15307058" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15279049" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -596,7 +607,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921812" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -634,14 +644,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Ch 11/Perkovic_Ch_11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="6237" max-vertical-offset="6902">
-          <caret line="400" column="0" selection-start-line="400" selection-start-column="0" selection-end-line="400" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Ch 11/w3c.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="408">
@@ -747,13 +749,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ch 04/Perkovic_Ch_04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="4871" max-vertical-offset="11798">
-          <caret line="291" column="18" selection-start-line="291" selection-start-column="18" selection-end-line="291" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Ch 09/draw2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.22483222" vertical-offset="409" max-vertical-offset="833">
@@ -842,20 +837,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ch 08/Perkovic_Ch_08_8.33.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3136" max-vertical-offset="4131">
-          <caret line="207" column="0" selection-start-line="207" selection-start-column="0" selection-end-line="207" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ch 08/Perkovic_Ch_08.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="22950" max-vertical-offset="29614">
-          <caret line="1360" column="0" selection-start-line="1360" selection-start-column="0" selection-end-line="1360" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Ch 08/Perkovic_Ch_08_8.35.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="275" max-vertical-offset="901">
@@ -888,13 +869,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-19.15901" vertical-offset="5422" max-vertical-offset="6035">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ch 05/Perkociv_Ch_05.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09893993" vertical-offset="19250" max-vertical-offset="20349">
-          <caret line="1134" column="18" selection-start-line="1134" selection-start-column="18" selection-end-line="1134" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -947,20 +921,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ch 06/Perkovic_Ch_06.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52459013" vertical-offset="17071" max-vertical-offset="20808">
-          <caret line="1023" column="13" selection-start-line="1023" selection-start-column="13" selection-end-line="1023" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ch 09/Perkovic_Ch_09.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.028475711" vertical-offset="0" max-vertical-offset="8415">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="5" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Ch 10/Perkovic_Ch_10_CS.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1785">
@@ -976,22 +936,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ch 11/ch11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="3757">
-          <caret line="90" column="48" selection-start-line="90" selection-start-column="48" selection-end-line="90" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ch 10/Perkovic_Ch_10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="18411">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Ch 11/w3c.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="408">
@@ -1000,20 +944,84 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Ch 08/Perkovic_Ch_08.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="16699" max-vertical-offset="29614">
+          <caret line="993" column="29" selection-start-line="993" selection-start-column="27" selection-end-line="993" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch 08/Perkovic_Ch_08_8.33.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.9111499" vertical-offset="2422" max-vertical-offset="4131">
+          <caret line="207" column="0" selection-start-line="207" selection-start-column="0" selection-end-line="207" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch 09/Perkovic_Ch_09.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36348408" vertical-offset="191" max-vertical-offset="8415">
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch 10/Perkovic_Ch_10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3321617" vertical-offset="3364" max-vertical-offset="18411">
+          <caret line="209" column="55" selection-start-line="209" selection-start-column="54" selection-end-line="209" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch 05/Perkociv_Ch_05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3321617" vertical-offset="19140" max-vertical-offset="20349">
+          <caret line="1137" column="5" selection-start-line="1137" selection-start-column="4" selection-end-line="1137" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch 11/ch11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="3757">
+          <caret line="90" column="48" selection-start-line="90" selection-start-column="48" selection-end-line="90" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Ch 11/Perkovic_Ch_11_CS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3704" max-vertical-offset="5474">
-          <caret line="235" column="0" selection-start-line="235" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="3609" max-vertical-offset="5474">
+          <caret line="218" column="13" selection-start-line="218" selection-start-column="13" selection-end-line="218" selection-end-column="13" />
           <folding>
             <element signature="e#254#288#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Ch 06/Perkovic_Ch_06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="12499" max-vertical-offset="20808">
+          <caret line="748" column="13" selection-start-line="748" selection-start-column="13" selection-end-line="748" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch 04/Perkovic_Ch_04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.75" vertical-offset="4775" max-vertical-offset="11798">
+          <caret line="292" column="13" selection-start-line="292" selection-start-column="8" selection-end-line="292" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Ch 11/Perkovic_Ch_11.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.91457283" vertical-offset="5285" max-vertical-offset="5933">
-          <caret line="343" column="24" selection-start-line="343" selection-start-column="24" selection-end-line="343" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.20268007" vertical-offset="7223" max-vertical-offset="7837">
+          <caret line="432" column="0" selection-start-line="432" selection-start-column="0" selection-end-line="433" selection-end-column="16" />
           <folding />
         </state>
       </provider>
