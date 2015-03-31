@@ -232,103 +232,14 @@ print('\nPP 11.5')
 ############
 print('\nPP 11.6')
 
-
-def frequency(s):
-    """ Takes a string as input, compute the frequency if every word
-        in the string, and returns a dictionary that maps words in
-        the string to their frequency
-    """
-    pattern = '[a-zA-Z]+'
-    words = findall(pattern, s)
-    dictionary = {}
-
-    for word in words:
-        if word in dictionary:
-            dictionary[word] += 1
-        else:
-            dictionary[word] = 1
-
-    return dictionary
-
-content1 = 'The pure and simple truth is\
-            rarely pure and never simple'
-
-print(frequency(content1))
+# 11.6 done in Ch_11_CS
 
 ############
 ### 11.7 ###
 ############
 print('\nPP 11.7')
 
-
-class Crawler2():
-    """ Recursively crawls through HTML links
-    """
-
-    def __init__(self):
-        """ Initializes set of visited websites
-        """
-        self.visited = set()
-
-    def analyze(self, url):
-        """ Returns a list of links in their absolute format
-            in the web page URL
-        """
-        print('Visiting', url)
-
-        content = urlopen(url).read().decode()
-        collector = Collector(url)
-        collector.feed(content)
-        urls = collector.get_links()
-
-        content = collector.get_data()
-        freq = self.frequency(content)
-
-        # print the frequency of every tet data word in the web page
-        print('\n{:50} {:10} {:5}'.format('URL', 'word', 'count'))
-        for word in freq:
-            print('{:50} {:10} {:5}'.format(url, word, freq[word]))
-
-        # print the http links found in web page
-        print('\n{:50} {:10}'.format('URL', 'link'))
-        for link in urls:
-            print('{:50} {:10}'.format(url, link))
-
-        return urls
-
-    def crawl(self, url):
-        """ Recursive web crawler that calls analyze() on every web page visited
-        """
-        self.visited.add(url)
-
-        links = self.analyze(url)
-
-        for link in links:
-            if link not in self.visited:
-                try:
-                    self.crawl(link)
-                except:
-                    pass
-
-    def frequency(self, s):
-        """ Takes a sting as input and computes the frequency of
-            every word in the string and returns a dictionary
-            that maps words in the string to their frequency
-        """
-        pattern = '[a-zA-Z]+'
-        words = findall(pattern, s)
-        dictionary = {}
-
-        for word in words:
-            if word in dictionary:
-                dictionary[word] += 1
-            else:
-                dictionary[word] = 1
-
-        return dictionary
-
-crawler2 = Crawler2()
-crawler2.crawl('http://reed.cs.depaul.edu/lperkovic/one.html')
+# 11.7 done in CH_11_CS
 
 ############
 ### 11.8 ###
@@ -366,7 +277,7 @@ print(findall('[0-9]+', content1))
 # c
 print(findall('[a-zA-Z]*ible', content1))
 # d
-print(findall('[A-Z][a-zA-Z]*y',content1))
+print(findall('[A-Z][a-zA-Z]*y', content1))
 # e
 print(findall('horror of[ a-z]*[ a-z]*', content1))
 # f
@@ -386,6 +297,10 @@ print(findall('[^@\s]+@[^@]+\.[^@\s]+', 'hi im john99@yahoo.com suck my dick'))
 #############
 print('\nPP 11.12')
 
+google = get_source('http://www.google.com')
+
+print(findall('href="[^"]+"', google))
+
 #############
 ### 11.13 ###
 #############
@@ -398,3 +313,32 @@ print(findall('\$[0-9,]*\.[0-9][0-9]', 'He paid a total of $1,099.29, and receiv
 #############
 print('\nPP 11.14')
 
+print(findall('"https?://[^"]+"', google))
+
+#############
+### 11.15 ###
+#############
+print('\nPP 11.15')
+
+# 11.15 done in Ch_11_CS
+
+#############
+### 11.16 ###
+#############
+print('\nPP 11.16')
+
+# 11.16 does not ask for code
+
+#############
+### 11.17 ###
+#############
+print('\nPP 11.17')
+
+# 11.17 done in Ch_11_CS
+
+#############
+### 11.18 ###
+#############
+print('\nPP 11.18')
+
+# 11.18 done in Ch_11_CS
