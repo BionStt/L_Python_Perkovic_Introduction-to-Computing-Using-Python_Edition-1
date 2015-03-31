@@ -115,7 +115,7 @@ def news(url, keywords):
         key_count = html.count(key)
         print('{} appears {} times.'.format(key, key_count))
 
-print(news('http://bbc.co.uk', ['economy', 'climate', 'education', 'news']))
+# print(news('http://bbc.co.uk', ['economy', 'climate', 'education', 'news']))
 
 ############
 ### 11.2 ###
@@ -372,8 +372,29 @@ print(findall('horror of[ a-z]*[ a-z]*', content1))
 # f
 print(findall('[a-zA-Z]+ death', content1))
 # g
-print(findall('[.?!].*laboratory[.?!]', content1))
+# print(findall('[^.?!]*?laboratory[^.?!]*\.', content1))
+
 #############
 ### 11.11 ###
 #############
 print('\nPP 11.11')
+
+print(findall('[^@\s]+@[^@]+\.[^@\s]+', 'hi im john99@yahoo.com suck my dick'))
+
+#############
+### 11.12 ###
+#############
+print('\nPP 11.12')
+
+#############
+### 11.13 ###
+#############
+print('\nPP 11.13')
+
+print(findall('\$[0-9,]*\.[0-9][0-9]', 'He paid a total of $1,099.29, and received $13.29 as change.'))
+
+#############
+### 11.14 ###
+#############
+print('\nPP 11.14')
+
