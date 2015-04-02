@@ -6,39 +6,39 @@ __author__ = 'Rolando'
 #############################################
 
 # Dictionaries
-days = {'Mo': 'Monday',         # A dictionary is a container (a class, like a list) that stores items
-        'Tu': 'Tuesday',        # that are accessible using "user-specified" indexes.
+days = {'Mo': 'Monday',  # A dictionary is a container (a class, like a list) that stores items
+        'Tu': 'Tuesday',  # that are accessible using "user-specified" indexes.
         'We': 'Wednesday',
         'Th': 'Thursday',
         'Fr': 'Friday'}
 
-print(days)                     # Dictionaries are not ordered the same way they are listed
-print(days['We'])               # Values are accessed by keys, not by index (but still use same operator d[k]
+print(days)  # Dictionaries are not ordered the same way they are listed
+print(days['We'])  # Values are accessed by keys, not by index (but still use same operator d[k]
 
-days['Sa'] = 'Saturday'         # Dictionaries are mutable
+days['Sa'] = 'Saturday'  # Dictionaries are mutable
 days['Su'] = 'Sunday'
 print(days['Sa'], days['Su'])
 print(days)
 
-print(len(days))                # Operator len() can still be used on dictionaries
+print(len(days))  # Operator len() can still be used on dictionaries
 
-print('Fr' in days)             # so can k in d (key in dictionary)
+print('Fr' in days)  # so can k in d (key in dictionary)
 print('Ja' in days)
-print('Feb' not in days)        # and k not in d
+print('Feb' not in days)  # and k not in d
 
 favorites = {'Th': 'Thrusday',  # other operators are not applicable to dictionaries
-             'Fr': 'Friday',    # such as +, *, max(), min(), and sum(), among others
+             'Fr': 'Friday',  # such as +, *, max(), min(), and sum(), among others
              'Sa': 'Saturday'}
-days.pop('Su')                  # and dictionaries share very few operators with lists as well
-days.pop('Sa')                  # such as d.pop(k)
+days.pop('Su')  # and dictionaries share very few operators with lists as well
+days.pop('Sa')  # such as d.pop(k)
 print(days)
 
-days['Sa'] = 'Sat'              # another method is d1.update(d2)
-print(days)                     # Which updates d1 with d2
-days.update(favorites)          # New entries from d2 are added if not present in d1
-print(days)                     # Old keys are kept unless they are present in both
-                                # values in d1 that have the same key as those on d2 are replaced by d2 values
-print(days.keys())              # other operators are useful in representing dictionaries as well
+days['Sa'] = 'Sat'  # another method is d1.update(d2)
+print(days)  # Which updates d1 with d2
+days.update(favorites)  # New entries from d2 are added if not present in d1
+print(days)  # Old keys are kept unless they are present in both
+# values in d1 that have the same key as those on d2 are replaced by d2 values
+print(days.keys())  # other operators are useful in representing dictionaries as well
 print(days.values())
 print(days.items())
 
@@ -82,6 +82,8 @@ def birthstate(s):
                   'Ronald Wilson Reagan': 'Illinois',
                   'James Earl Carter, Jr': 'Georgia'}
     return presidents[s]
+
+
 print(birthstate('Ronald Wilson Reagan'))
 
 
@@ -105,7 +107,9 @@ def rlookup(d):
     if number not in d:
         return 'Incorrect number format, or the number you entered is not in use.'
     return d[number]
-#print(rlookup(rphonebook))
+
+
+# print(rlookup(rphonebook))
 
 
 def complete(abbreviation):
@@ -123,6 +127,8 @@ def complete(abbreviation):
     if abbreviation not in days2:
         return False
     return days2[abbreviation]
+
+
 print(complete('Mo'))
 print(complete('Su'))
 print(complete('Ja'))
@@ -133,13 +139,15 @@ def frequency(itemlist):
     :param itemlist: Takes list of items (list)
     :return: frequency of items on list (dict)
     """
-    counters = {}                       # Initialize dictionary of counters
+    counters = {}  # Initialize dictionary of counters
     for item1 in itemlist:
-        if item1 in counters:            # Counter for item already exits
-            counters[item1] += 1         # so increment it
-        else:                           # If not, Counter for item is created
-            counters[item1] = 1          # and initialized to 1
+        if item1 in counters:  # Counter for item already exits
+            counters[item1] += 1  # so increment it
+        else:  # If not, Counter for item is created
+            counters[item1] = 1  # and initialized to 1
     return counters
+
+
 students = ['Cindy', 'John', 'Cindy', 'Adam', 'Adam', 'Jimmy', 'Joan', 'Cindy', 'Joan']
 print(frequency(students))
 
@@ -173,6 +181,8 @@ def wordcount(s):
         else:
             print('{:8} appears {} times.'.format(word, counters[word]))
     return ''
+
+
 text = 'all animals are equal but some animals are more equal than others'
 print(wordcount(text))
 
@@ -182,11 +192,11 @@ print(wordcount(text))
 print('PP 6.5')
 
 # Tuples
-phonebook = {('Anna', 'Karenina'): '(123)456-78-90',    # In the function rlookup(), if we switch up keys and values
-             ('Yu', 'Tsun'): '(901)234-56-78',          # an error occurs because the names are list objects
-             ('Hans', 'Castorp'): '(321)908-76-54'}     # therefore a new class must b used called the tuple
-print(phonebook)                                        # tuples behave as lists in almost every way except they are
-                                                        # immutable, and use () instead of []
+phonebook = {('Anna', 'Karenina'): '(123)456-78-90',  # In the function rlookup(), if we switch up keys and values
+             ('Yu', 'Tsun'): '(901)234-56-78',  # an error occurs because the names are list objects
+             ('Hans', 'Castorp'): '(321)908-76-54'}  # therefore a new class must b used called the tuple
+print(phonebook)  # tuples behave as lists in almost every way except they are
+# immutable, and use () instead of []
 
 
 def lookup(d):
@@ -200,37 +210,38 @@ def lookup(d):
     if person not in d:
         return 'Name could not be found'
     return d[person]
+
 #print(lookup(phonebook))
 
 # Sets
 phonebook1 = {'123-45-67', '234-56-78', '345-67-89'}
-print(phonebook1)                                           # Sets have the same properties as mathematical sets
-phonebook1 = {'123-45-67', '234-56-78', '345-67-89',        # Duplicates are ignored
-              '123-45-67', '234-56-78'}                     # Which make sets useful for removing duplicates
-print(phonebook1)                                           # But as with dictionaries, they are out of order as well
+print(phonebook1)  # Sets have the same properties as mathematical sets
+phonebook1 = {'123-45-67', '234-56-78', '345-67-89',  # Duplicates are ignored
+              '123-45-67', '234-56-78'}  # Which make sets useful for removing duplicates
+print(phonebook1)  # But as with dictionaries, they are out of order as well
 
-phonebook2 = set()                                          # Empty sets cannot be represented with braces since those
-print(type(phonebook2))                                     # are use by dictionaries, so it must be called implicitly
+phonebook2 = set()  # Empty sets cannot be represented with braces since those
+print(type(phonebook2))  # are use by dictionaries, so it must be called implicitly
 
-print('123-45-67' in phonebook1)                            # set class supports operators that correspond to ususal
-print('456-78-90' in phonebook1)                            # mathematical types and operations, as well as a few that
-print('456-78-90' not in phonebook1)                        # can be used in lst, str, and dict
+print('123-45-67' in phonebook1)  # set class supports operators that correspond to ususal
+print('456-78-90' in phonebook1)  # mathematical types and operations, as well as a few that
+print('456-78-90' not in phonebook1)  # can be used in lst, str, and dict
 
 print(len(phonebook1))
 
-phonebook3 = {'345-67-89', '456-78-90'}                     # Comparison operators are supported for sets
+phonebook3 = {'345-67-89', '456-78-90'}  # Comparison operators are supported for sets
 print(phonebook1 == phonebook3)
 print(phonebook1 != phonebook3)
 
 print({'123-45-67', '345-67-89'} <= phonebook1)
 print(phonebook1 < phonebook1)
-                                                            # Mathematical set operators can be used too such as
-print(phonebook1 | phonebook3)                              # Union
-print(phonebook1 & phonebook3)                              # Intersection
-print(phonebook1 - phonebook3)                              # difference between sets
-print(phonebook1 ^ phonebook3)                              # symmetrical difference
+# Mathematical set operators can be used too such as
+print(phonebook1 | phonebook3)  # Union
+print(phonebook1 & phonebook3)  # Intersection
+print(phonebook1 - phonebook3)  # difference between sets
+print(phonebook1 ^ phonebook3)  # symmetrical difference
 
-phonebook3.add('123-45-67')                                 # sets support their own methods as well
+phonebook3.add('123-45-67')  # sets support their own methods as well
 print(phonebook3)
 phonebook3.remove('123-45-67')
 print(phonebook3)
@@ -269,6 +280,8 @@ def sync(lst):
     for pb in lst:
         pbl = pbl | pb
     return pbl
+
+
 phonebook4 = {'234-56-78', '456-78-90'}
 phonebooks = [phonebook1, phonebook2, phonebook3, phonebook4]
 print(sync(phonebooks))
@@ -285,10 +298,12 @@ def encoding(s):
     :param s: (str)
     :return: prints ASCII C code in decimal, hex, and binary notation for every character
     """
-    print('Char Decimal Hex   Binary')         # Column headings
+    print('Char Decimal Hex   Binary')  # Column headings
     for c in s:
-        code = ord(c)                           # Compute ASCII code
+        code = ord(c)  # Compute ASCII code
         print(' {} {:7} {:4x} {:9b}'.format(c, code, code, code))
+
+
 print(encoding('dad'))
 
 ###########
@@ -306,27 +321,29 @@ def char(low, high):
     """
     for i in range(low, high + 1):
         print('{} : {}'.format(i, chr(i)))
+
+
 print(char(62, 67))
 
-import random                           # Python has an RNG (random number generator)
+import random  # Python has an RNG (random number generator)
 
-print(random.randrange(1, 7))           # randrange() allows you to RNG within a range of integers
+print(random.randrange(1, 7))  # randrange() allows you to RNG within a range of integers
 print(random.randrange(1, 7))
 print(random.randrange(1, 7))
 print(random.randrange(1, 7))
 print(random.randrange(1, 7))
 
-print(random.uniform(0, 1))             # uniform() allows you to RNG within a range of floats
+print(random.uniform(0, 1))  # uniform() allows you to RNG within a range of floats
 print(random.uniform(0, 1))
 
 rlst = [1, 2, 3, 4, 5]
-print(random.shuffle(rlst))             # shuffle() lets you shuffle the order of a sequence
+print(random.shuffle(rlst))  # shuffle() lets you shuffle the order of a sequence
 print(random.shuffle(rlst))
 
-print(random.choice(rlst))              # choice() allows you to choose an item at random from a sequence
+print(random.choice(rlst))  # choice() allows you to choose an item at random from a sequence
 print(random.choice(rlst))
 
-print(random.sample(rlst, 2))           # sample() allows you to choose multiple items from a container at random
+print(random.sample(rlst, 2))  # sample() allows you to choose multiple items from a container at random
 print(random.sample(rlst, 3))
 print(random.sample(rlst, 3))
 
@@ -348,6 +365,7 @@ def guess(n):
             print('Too low.')
         else:
             print('Too high.')
+
 #print(guess(100))
 
 ############
@@ -364,6 +382,8 @@ def approxpi(n):
         if x ** 2 + y ** 2 <= 1:
             count += 1
     return 4 * count / n
+
+
 print(approxpi(1000))
 print(approxpi(10000))
 
@@ -437,6 +457,7 @@ def letter2number(s):
         return grades[s]
     else:
         return 0
+
 
 print(letter2number('A'))
 print(letter2number('B+'))
@@ -532,6 +553,8 @@ def m35():
         if i % 35 == 0:
             mult35.append(i)
     return set(mult35)
+
+
 print(m35())
 # B
 
@@ -542,6 +565,8 @@ def m105():
         if i % 105 == 0:
             mult105.append(i)
     return set(mult105)
+
+
 print(m105())
 # C
 
@@ -549,6 +574,8 @@ print(m105())
 def m3or7():
     mult3or7 = mult3 | mult7
     return mult3or7
+
+
 print(m3or7())
 # D
 
@@ -556,6 +583,8 @@ print(m3or7())
 def m3or7nb():
     mult3or7nb = mult3 ^ mult7
     return mult3or7nb
+
+
 print(m3or7nb())
 # E
 
@@ -563,6 +592,8 @@ print(m3or7nb())
 def m7not3():
     mult7not3 = mult7 - mult3
     return mult7not3
+
+
 print(m7not3())
 
 ############
@@ -581,6 +612,8 @@ def hexascii():
     for letter in al:
         code = ord(letter)
         print('{}:{:2x}'.format(letter, code), end=' ')
+
+
 print(hexascii())
 
 ############
@@ -598,6 +631,8 @@ def coin():
         return 'Heads'
     else:
         return 'Tails'
+
+
 print(coin())
 
 ############
@@ -618,6 +653,7 @@ def ut(s):
     for i in s:
         code = ord(i)
         print('{}{}'.format(i, code), end=' ')
+
 
 print(ut(arabic))
 print(ut(japanese))
@@ -649,6 +685,8 @@ def reverse(d):
         d2 = {values[i]: keys[i]}
         d1.update(d2)
     return d1
+
+
 print(reverse(phonebook7))
 
 ############
@@ -684,6 +722,7 @@ def ticker(file):
     if name not in company:
         return "Company not in file."
     return d1[name]
+
 # print(ticker('nasdaq.txt'))
 
 ############
@@ -705,6 +744,8 @@ def mirror(s):
     txt = s.translate(table)
     reversetxt = txt[:: -1]
     return reversetxt
+
+
 print(mirror('vow'))
 print(mirror('wood'))
 print(mirror('bed'))
@@ -735,6 +776,8 @@ def scarydict(file):
         else:
             print(i)
     return 'DONE'
+
+
 print(scarydict('frankenstein.txt'))
 
 ############
@@ -754,12 +797,12 @@ def names():
     while input1 != '':
         studentlist.append(input1)
         input1 = input('Enter next name: ')
-    counters = {}                       # Initialize dictionary of counters
+    counters = {}  # Initialize dictionary of counters
     for item1 in studentlist:
-        if item1 in counters:            # Counter for item already exits
-            counters[item1] += 1         # so increment it
-        else:                           # If not, Counter for item is created
-            counters[item1] = 1          # and initialized to 1
+        if item1 in counters:  # Counter for item already exits
+            counters[item1] += 1  # so increment it
+        else:  # If not, Counter for item is created
+            counters[item1] = 1  # and initialized to 1
     studentlist = list(set(studentlist))
     studentlist.sort()
     for item1 in studentlist:
@@ -767,6 +810,7 @@ def names():
             print('There is {} student named {}'.format(counters[item1], item1))
         else:
             print('There are {} students named {}'.format(counters[item1], item1))
+
 #print(names())
 
 ############
@@ -788,6 +832,7 @@ def different(t):
             else:
                 counters[j] = 1
     return len(counters)
+
 
 t1 = [[1, 0, 1], [0, 1, 0]]
 t2 = [[32, 12, 52, 63], [32, 64, 67, 52], [64, 64, 17, 34], [34, 17, 76, 98]]
@@ -820,6 +865,7 @@ def week():
         else:
             break
     return 'DONE'
+
 #print(week())
 
 ############
@@ -855,6 +901,7 @@ def index(file, lst):
     for word in words:
         print('{:10}{}'.format(word, ', '.join(str(x) for x in wdic[word])))
 
+
 print(index('raven.txt', ['raven', 'mortal', 'dying', 'ghost', 'ghastly', 'evil', 'demon']))
 
 ############
@@ -877,6 +924,8 @@ def translate(d):
         else:
             alist.append('____')
     return ' '.join(alist)
+
+
 dt = {'I': 'Me',
       'like': 'gusta',
       'boobs': 'chichis'}
@@ -895,15 +944,15 @@ def networks(n, lst):
     :param lst: list of friend tuples (who is friends with who)
     :return:
     """
-    groups = []                                     # Empty group list
-    for i in range(n):                              # Make a group for every person (in range of n)
+    groups = []  # Empty group list
+    for i in range(n):  # Make a group for every person (in range of n)
         groups.append({i})
     print(groups)
 
-    for pair in lst:                                # For each tuple pair
-        union = groups[pair[0]] | groups[pair[1]]   # Make union (variable) the union of the pair (tuple)
-        for p in union:                             # for each person (value) in the union (set), the groups correspond
-            groups[p] = union                       # to each person are
+    for pair in lst:  # For each tuple pair
+        union = groups[pair[0]] | groups[pair[1]]  # Make union (variable) the union of the pair (tuple)
+        for p in union:  # for each person (value) in the union (set), the groups correspond
+            groups[p] = union  # to each person are
     print(groups)
 
     sets = set()
@@ -915,6 +964,8 @@ def networks(n, lst):
     for s in sets:
         print('Network {} is {}'.format(i, set(s)))
         i += 1
+
+
 print(networks(5, [(0, 1), (1, 2), (3, 4)]))
 
 ############
@@ -949,6 +1000,8 @@ def simul(n):
         return 'Overall result: Player 2'
     else:
         return 'Overall result: Player 1'
+
+
 print(simul(1))
 print(simul(1))
 print(simul(10))
@@ -985,6 +1038,8 @@ def craps():
         if result2 == result1:
             return 1
     return 0
+
+
 print(craps())
 
 
@@ -993,6 +1048,7 @@ def testcraps(n):
     for i in range(n):
         counter += craps()
     return counter / n
+
 
 print(testcraps(100))
 print(testcraps(10000))
@@ -1027,6 +1083,8 @@ def manhattan(x, y):
             z -= 1
     for i in res:
         print(i)
+
+
 print(manhattan(5, 11))
 
 ############
@@ -1042,14 +1100,14 @@ def shuffledeck():
     :return: shuffled deck
     """
     suits = {'\u2660', '\u2661', '\u2662', '\u2663'}  # suits is a set od 4 unicode symbols: black spade and club,
-    ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K', 'A'}        # and white diamond and heart
+    ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K', 'A'}  # and white diamond and heart
     deck = []
 
-    for suit in suits:                                  # Create a deck out of 52 cards
-        for rank in ranks:                              # card is the concatenation
-            deck.append(rank + ' ' + suit)              # of suit and rank
+    for suit in suits:  # Create a deck out of 52 cards
+        for rank in ranks:  # card is the concatenation
+            deck.append(rank + ' ' + suit)  # of suit and rank
 
-    random.shuffle(deck)                                # Shuffle the deck and return it
+    random.shuffle(deck)  # Shuffle the deck and return it
     return deck
 
 
@@ -1126,7 +1184,7 @@ def war():
             winner = '\t2'
 
         print('Round: {}, Player 1 card: {}, Player 2 card: {}'.format(rounds,
-              play1, play2))
+                                                                       play1, play2))
         print(winner)
     if deck2 is []:
         print('PLAYER 1 WINS WAR')
@@ -1136,6 +1194,7 @@ def war():
     result = 'Total rounds: ' + str(rounds), 'Total wars: ' + str(wars)
     print(result)
     return rounds, wars
+
 
 print(war())
 
@@ -1154,6 +1213,8 @@ def warstats(n):
     arounds = trounds / n
     awars = twars / n
     return 'Average rounds: ' + str(arounds), 'Average wars: ' + str(awars)
+
+
 print(warstats(10))
 
 ############
@@ -1180,6 +1241,7 @@ def game(n):
         else:
             print('Incorrect.')
     return 'You got {} correct answers out of {}'.format(correct_answers, n)
+
 # print(game(3))
 
 ############
@@ -1211,6 +1273,8 @@ def caesar(n, file):
             cipher += chr(c)
 
     return cipher
+
+
 print(caesar(3, 'clear.txt'))
 
 ############
