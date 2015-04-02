@@ -82,8 +82,8 @@ print(findall('be*t', 'beetbtbelt?bet, best'))
 print(findall('be+t', 'beetbtbelt?bet, best'))
 
 print(findall('e+', 'beeeetbet bt'))  # if the regular expression matches 2 sub-strings
-                                        # such that one is contained within the other, the
-                                        # function will match  the longer substring only
+# such that one is contained within the other, the
+# function will match  the longer substring only
 
 print(findall('[^bt]+', 'beetbtbelt?bet, best'))
 print(findall('[bt]+', 'beetbtbelt?bet, best'))
