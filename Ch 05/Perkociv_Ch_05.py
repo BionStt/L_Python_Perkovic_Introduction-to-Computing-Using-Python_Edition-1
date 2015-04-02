@@ -31,7 +31,7 @@ def mybmi(weight, height):
     """ Prints bmi report.
 
     """
-    bmi = weight * 703 / (height**2)
+    bmi = weight * 703 / (height ** 2)
     if bmi < 18.5:
         end = 'Underweight'
     elif bmi < 25:
@@ -53,7 +53,7 @@ def powers(n):
 
     """
     for i in range(1, n + 1):
-        print(2**i, end=' ')
+        print(2 ** i, end=' ')
 print(powers(6))
 
 
@@ -1186,7 +1186,7 @@ def heron(n, error):
     current = 1 / 2 * (prev + n / prev)
     while abs(current - prev) >= error:
         prev = current
-        current = (1/2 * (prev + n / prev))
+        current = (1 / 2 * (prev + n / prev))
     return current
 print(heron(4.0, 0.5))
 print(heron(4.0, 0.1))

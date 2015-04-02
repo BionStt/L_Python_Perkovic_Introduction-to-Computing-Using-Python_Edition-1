@@ -129,20 +129,20 @@ def planets():
     :return: rotation of Mercury, Venus, Earth, and Mars from sun
     """
     s1 = turtle.Screen()
-    Me = turtle.Turtle()
-    Ve = turtle.Turtle()
-    Ea = turtle.Turtle()
-    Ma = turtle.Turtle()
+    me = turtle.Turtle()
+    ve = turtle.Turtle()
+    ea = turtle.Turtle()
+    ma = turtle.Turtle()
 
-    jump(Me, 0, -58)
-    jump(Ve, 0, -108)
-    jump(Ea, 0, -150)
-    jump(Ma, 0, -228)
+    jump(me, 0, -58)
+    jump(ve, 0, -108)
+    jump(ea, 0, -150)
+    jump(ma, 0, -228)
 
-    Me.circle(158, 360 * 7.5)
-    Ve.circle(208, 360 * 3)
-    Ea.circle(250, 360 * 2)
-    Ma.circle(328, 350)
+    me.circle(158, 360 * 7.5)
+    ve.circle(208, 360 * 3)
+    ea.circle(250, 360 * 2)
+    ma.circle(328, 350)
 
     s1.bye()
 

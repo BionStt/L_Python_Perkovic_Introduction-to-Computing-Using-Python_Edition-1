@@ -32,10 +32,10 @@ class ClickIt(Frame):
         """
 
         # creates string for time display
-        time = strftime('Day: %d %b %Y\nTime: %H:%M:%S %p\n', localtime())
+        timer = strftime('Day: %d %b %Y\nTime: %H:%M:%S %p\n', localtime())
 
         # display time in a pop-up window
-        showinfo(message=time)
+        showinfo(message=timer)
 
 
 # root = Tk()

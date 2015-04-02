@@ -54,7 +54,7 @@ direction = input('What is you Cardinal direction: ')
 
 if direction is 'north' or 'south' or 'east' or 'west':
     print('I can escape!')  # If at least one of the Boolean variables north, south, east, and west is True, print
-                            # 'I can escape.'
+# 'I can escape.'
 
 ###########
 ### 3.3 ###

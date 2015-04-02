@@ -74,7 +74,7 @@ for r in range(4):                              # for every row r = 0, 1, 2, 3
 root.mainloop()
 
 
-from time import strftime, strptime,  localtime, gmtime
+from time import strftime, strptime, localtime, gmtime
 
 
 # def clicked():

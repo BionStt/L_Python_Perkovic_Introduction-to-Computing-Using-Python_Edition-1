@@ -2,6 +2,7 @@ __author__ = 'Rolando'
 
 import random
 
+
 class Craps:
     """
     """

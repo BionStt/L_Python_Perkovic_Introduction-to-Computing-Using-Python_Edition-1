@@ -35,7 +35,7 @@ class Peg(Turtle, list):
         Turtle.__init__(self, shape='square', visible=False)
         self.penup()                        # peg moves should not be traced
         self.shapesize(n * 1.25, 0.75, 1)   # height of peg is function
-                                            # of the number of disks
+        # of the number of disks
         self.sety(12.5 * n)                 # bottom of peg is y=0
         self.x = Peg.pos                    # x-coord of peg
         self.setx(self.x)                   # peg is moved to its x-coord
@@ -47,8 +47,8 @@ class Peg(Turtle, list):
         """
 
         disk.setx(self.x)                   # moves disk to x-coord of peg
-        disk.sety(10+ len(self) * 25)       # moves disk vertically to just
-                                            # above the topmost disk of peg
+        disk.sety(10 + len(self) * 25)       # moves disk vertically to just
+        # above the topmost disk of peg
         list.append(self, disk)             # add disk to peg
 
     def pop(self):
