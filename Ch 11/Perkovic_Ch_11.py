@@ -461,3 +461,15 @@ scary('frankenstein.txt')
 ### 11.21 ###
 #############
 print('\nPP 11.21')
+
+
+def get_content(url):
+    """ Takes a URL as input and prints only the text data content of the
+        associated web page (no tags).
+    """
+
+    response = urlopen(url)
+    html = response.read()
+    html = html.decode.lower()
+
+    return html
