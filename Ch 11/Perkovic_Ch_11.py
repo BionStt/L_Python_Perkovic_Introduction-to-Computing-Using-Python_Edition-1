@@ -29,6 +29,7 @@ def get_source(url):
     html = response.read()
     return html.decode()
 
+
 print(get_source('http://www.google.com'))
 
 from html.parser import HTMLParser
@@ -81,8 +82,8 @@ print(findall('be*t', 'beetbtbelt?bet, best'))
 print(findall('be+t', 'beetbtbelt?bet, best'))
 
 print(findall('e+', 'beeeetbet bt'))  # if the regular expression matches 2 sub-strings
-                                      # such that one is contained within the other, the
-                                      # function will match  the longer substring only
+                                        # such that one is contained within the other, the
+                                        # function will match  the longer substring only
 
 print(findall('[^bt]+', 'beetbtbelt?bet, best'))
 print(findall('[bt]+', 'beetbtbelt?bet, best'))
@@ -149,6 +150,7 @@ class MyHTMLParser(HTMLParser):
             self.indent -= 4
             print('{}{} end'.format(' ' * self.indent, tag))
 
+
 infile1 = open('w3c.html')
 content1 = infile1.read()
 infile1.close()
@@ -198,6 +200,7 @@ class Collector(HTMLParser):
         """ Return all text data in a string
         """
         return self.text
+
 
 url1 = 'http://www.w3.org/Consortium/mission.html'
 resource1 = urlopen(url1)
@@ -352,7 +355,6 @@ infile1 = open('frankenstein.txt')
 content1 = infile1.read()
 infile1.close()
 
-
 import time
 
 
@@ -380,6 +382,7 @@ def timing_analysis(func, n1, n2, runs):
     format_str = 'Run time of {}(\'{}\', \'{}\') is {:.7f} seconds.'
     print(format_str.format(func.__name__, n1, n2, acc / runs))
 
+
 # replace
 
 
@@ -390,6 +393,7 @@ def test_replace(n1, n2):
     global content1
 
     return content1.replace(n1, n2)
+
 
 print(timing_analysis(test_replace, '.', ' ', 10))
 
@@ -407,6 +411,7 @@ def test_translate(n1, n2):
 
     return result
 
+
 # print(timing_analysis(test_translate, '.', ' ', 10))
 
 # regex
@@ -422,6 +427,7 @@ def test_regex(n1, n2):
     strings = findall(pattern, content1)
 
     return n2.join(strings)
+
 
 print(timing_analysis(test_regex, '.', ' ', 10))
 
@@ -444,8 +450,9 @@ def scary(file):
 
     outfile = open('scary_dictionary.txt', 'w')
     for i in strings:
-        outfile.write(i+ '\n')
+        outfile.write(i + '\n')
     outfile.close()
+
 
 scary('frankenstein.txt')
 
