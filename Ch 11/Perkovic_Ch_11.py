@@ -498,20 +498,11 @@ print(get_content('http://www.nytimes.com/'))
 #############
 print('\nPP 11.22')
 
-
-def emails(s):
-    """ Takes a string as input and returns the set of email addresses appearing in it
-    """
-
-    return set(findall('[^@:"\?\s]+@+[^@:"\?\s]+', s))
-
-url1 = 'http://www.cdm.depaul.edu/'
-content2 = urlopen(url1).read().decode()
-print(emails(content2))
+# Done in Ch_11_CS
 
 #############
 ### 11.23 ###
 #############
 print('\nPP 11.23')
 
-# done in CH_11_.23
+# done in Ch_11_CS

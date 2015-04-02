@@ -177,7 +177,6 @@ def crawl_15(url, n=2):
                 pass
 
 print(crawl_15('http://reed.cs.depaul.edu/lperkovic/one.html'))
-#################################################################### end of 11.15
 
 #################################################################### start of 11.17
 ### 11.17 ###
@@ -213,7 +212,6 @@ def crawl_17(url, host=''):
                 pass
 
 print(crawl_17('http://reed.cs.depaul.edu/lperkovic/one.html'))
-#################################################################### end of 11.17
 
 #################################################################### start of 11.18
 ### 11.18 ###
@@ -244,7 +242,57 @@ def crawl_18(url, starter=''):
                 pass
 
 print(crawl_18('http://reed.cs.depaul.edu/lperkovic/one.html'))
-#################################################################### end of 11.18
+
+#################################################################### start of 11.22
+### 11.22 ###
+#############
+print('\nPP 11.22')
+
+
+def emails(s):
+    """ Takes a string as input and returns the set of email addresses appearing in it
+    """
+
+    return set(findall('[^@:"\?\s]+@+[^@:"\?\s]+', s))
+
+url1 = 'http://www.cdm.depaul.edu/'
+content2 = urlopen(url1).read().decode()
+print(emails(content2))
+
+#################################################################### start of 11.23
+### 11.23 ###
+#############
+print('\nPP 11.23')
+
+
+def price_match_general(urls, prices):
+    """ Takes a list of web page addresses and a list of target prices of
+        the same list size then prints web page addresses that correspond
+        to products whose price was less than the target price
+    """
+
+    for url in urls:
+        resource = urlopen(url)                     # open url
+        content = resource.read().decode()          # read and decode url
+        collector = Collector(url)                  # create Parser object
+        collector.feed(content)                     # feed content to parser
+        priced = findall('\$[0-9,]*\.[0-9][0-9]', collector.get_data())     # filter out price numbers into a list
+        for i in range(len(priced)):
+            priced[i] = eval(priced[i])             # make price string into a number
+        priced = min(priced)                        # get the lowest price
+        if priced <= prices[urls.inde(url)]:        # if price on site lower than price on input
+            print(url)                              # print price
+
+#################################################################### start of 11.24
+### 11.24 ###
+#############
+print('\nPP 11.24')
+
+
+#################################################################### start of 11.7
+### 11.7 ###
+############
+print('\nPP 11.7')
 
 
 class Crawler2():
