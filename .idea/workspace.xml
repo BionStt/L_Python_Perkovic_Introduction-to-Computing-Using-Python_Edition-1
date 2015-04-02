@@ -20,7 +20,7 @@
     <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_4.coverage" NAME="Perkovic Ch 4 Coverage Results" MODIFIED="1417740097056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 4" />
     <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_08.coverage" NAME="Perkovic Ch 08 Coverage Results" MODIFIED="1421968917657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 08" />
     <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_02.coverage" NAME="Perkovic Ch 02 Coverage Results" MODIFIED="1420857717143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 02" />
-    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_11.coverage" NAME="Perkovic_Ch_11 Coverage Results" MODIFIED="1427933126398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 11" />
+    <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_11.coverage" NAME="Perkovic_Ch_11 Coverage Results" MODIFIED="1427933403728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 11" />
     <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$day2.coverage" NAME="day2 Coverage Results" MODIFIED="1424732819696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 09" />
     <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$Perkovic_Ch_09_1.coverage" NAME="Perkovic_Ch_09.1 Coverage Results" MODIFIED="1425036518139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch 09" />
     <SUITE FILE_PATH="coverage/Introduction to Computing Using Python - Ljubomir Perkovic$lab3.coverage" NAME="lab3 Coverage Results" MODIFIED="1422313105073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="J:/school stuff/usb back/ics 31" />
@@ -114,8 +114,8 @@
       <file leaf-file-name="Perkovic_Ch_11.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Ch 11/Perkovic_Ch_11.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6666667" vertical-offset="1029" max-vertical-offset="7956">
-              <caret line="85" column="12" selection-start-line="85" selection-start-column="12" selection-end-line="85" selection-end-column="12" />
+            <state vertical-scroll-proportion="1.0753205" vertical-offset="876" max-vertical-offset="7956">
+              <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -213,7 +213,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ICS 31/Lab1/lab1e.py" />
+    <property name="last_opened_file_path" value="C:/Program Files (x86)/Python/python.exe" />
     <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -573,7 +573,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="815" y="1" width="1110" height="1079" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921812" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -581,7 +581,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3285273" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3285273" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3285273" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15265082" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299725" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -996,8 +996,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Ch 11/Perkovic_Ch_11.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6666667" vertical-offset="1029" max-vertical-offset="7956">
-          <caret line="85" column="12" selection-start-line="85" selection-start-column="12" selection-end-line="85" selection-end-column="12" />
+        <state vertical-scroll-proportion="1.0753205" vertical-offset="876" max-vertical-offset="7956">
+          <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
           <folding />
         </state>
       </provider>
