@@ -470,6 +470,25 @@ def get_content(url):
 
     response = urlopen(url)
     html = response.read()
-    html = html.decode.lower()
+    html = html.decode()
 
-    return html
+    collector = Collector(url)
+    collector.feed(html)
+    content = collector.get_data()
+
+    content = content.split('\n')
+    for i in content:
+        content[content.index(i)] = i.strip()
+
+    counter = 0
+    while counter < len(content) - 1:
+        if content[counter] == content[counter + 1]:
+            content.pop(counter)
+        else:
+            counter += 1
+
+    content = '\n'.join(content)
+
+    return content
+
+print(get_content('http://www.nytimes.com/'))
