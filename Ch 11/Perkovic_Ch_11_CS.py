@@ -144,7 +144,7 @@ def crawl2(url):
             except:
                 pass
 
-print(crawl2('http://reed.cs.depaul.edu/lperkovic/one.html'))
+# print(crawl2('http://reed.cs.depaul.edu/lperkovic/one.html'))
 
 #################################################################### start of 11.15
 ### 11.15 ###
@@ -176,7 +176,7 @@ def crawl_15(url, n=2):
             except:
                 pass
 
-print(crawl_15('http://reed.cs.depaul.edu/lperkovic/one.html'))
+# print(crawl_15('http://reed.cs.depaul.edu/lperkovic/one.html'))
 
 #################################################################### start of 11.17
 ### 11.17 ###
@@ -211,7 +211,7 @@ def crawl_17(url, host=''):
             except:
                 pass
 
-print(crawl_17('http://reed.cs.depaul.edu/lperkovic/one.html'))
+# print(crawl_17('http://reed.cs.depaul.edu/lperkovic/one.html'))
 
 #################################################################### start of 11.18
 ### 11.18 ###
@@ -244,7 +244,7 @@ def crawl_18(url, starter=''):
             except:
                 pass
 
-print(crawl_18('http://reed.cs.depaul.edu/lperkovic/one.html'))
+# print(crawl_18('http://reed.cs.depaul.edu/lperkovic/one.html'))
 
 #################################################################### start of 11.22
 ### 11.22 ###
@@ -256,11 +256,11 @@ def emails(s):
     """ Takes a string as input and returns the set of email addresses appearing in it
     """
 
-    return set(findall('[^@:"\?\s]+@+[^@:"\?\s]+', s))
+    return set(findall('[^@:"><\?\s]+@+[^@:"<>\?\s]+', s))
 
 url1 = 'http://www.cdm.depaul.edu/'
-content3 = urlopen(url1).read().decode()
-print(emails)
+content2 = urlopen(url1).read().decode()
+print(emails(content2))
 
 #################################################################### start of 11.23
 ### 11.23 ###
@@ -292,7 +292,7 @@ def price_match_general(urls, prices):
 print('\nPP 11.24')
 
 visited_email = set()
-emailsx = set()
+emails_x = set()
 
 
 def crawl_email(url, host=''):
@@ -308,12 +308,12 @@ def crawl_email(url, host=''):
         host = match.string[match.start():match.end()]
         print(host)
 
-    global visited_email, emailsx
+    global visited_email, emails_x
     visited_email.add(url)
 
     content = urlopen(url).read().decode()
     found_emails = emails(content)
-    found_emails.add(url)
+    emails_x = emails_x.union(found_emails)
 
     links = analyze(url)
 
@@ -324,7 +324,9 @@ def crawl_email(url, host=''):
             except:
                 pass
 
-    return emailsx
+    return emails_x
+
+print(crawl_email('http://britevisuals.com/'))
 #################################################################### start of 11.7
 ### 11.7 ###
 ############
