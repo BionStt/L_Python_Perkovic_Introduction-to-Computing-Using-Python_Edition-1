@@ -222,7 +222,10 @@ visited_18 = set()
 
 
 def crawl_18(url, starter=''):
-
+    """ A recursive web crawler that calls analyze() on every web page visited,
+        stores pages visited to prevent re-crawling, and only follows links contained
+        directly or indirectly in the web server file system folder containing the starting page
+    """
     if starter not in url:
         return None
     if starter == '':
@@ -288,7 +291,39 @@ def price_match_general(urls, prices):
 #############
 print('\nPP 11.24')
 
+visited_email = set()
+emails = set()
 
+def crawl_email(url, host=''):
+    """ A recursive crawler that collects email addresses in the visited
+        web pages. The crawler only follows links with the same host as
+        the starter page.
+    """
+
+    if host not in url:
+        return None
+    if host == '':
+        match = search('https?://[^/]+', url)
+        host = match.string[match.start():match.end()]
+        print(host)
+
+    global visited_email, emails
+    visited_email.add(url)
+
+    content = urlopen(url).read().decode()
+    found_emails = emails(content)
+    found_emails.add(url)
+
+    links = analyze(url)
+
+    for link in links:
+        if link not in visited_email:
+            try:
+                crawl_email(link, host)
+            except:
+                pass
+
+    return found_emails
 #################################################################### start of 11.7
 ### 11.7 ###
 ############
