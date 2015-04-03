@@ -259,8 +259,8 @@ def emails(s):
     return set(findall('[^@:"\?\s]+@+[^@:"\?\s]+', s))
 
 url1 = 'http://www.cdm.depaul.edu/'
-content2 = urlopen(url1).read().decode()
-print(emails(content2))
+content3 = urlopen(url1).read().decode()
+print(emails)
 
 #################################################################### start of 11.23
 ### 11.23 ###
@@ -292,7 +292,8 @@ def price_match_general(urls, prices):
 print('\nPP 11.24')
 
 visited_email = set()
-emails = set()
+emailsx = set()
+
 
 def crawl_email(url, host=''):
     """ A recursive crawler that collects email addresses in the visited
@@ -307,7 +308,7 @@ def crawl_email(url, host=''):
         host = match.string[match.start():match.end()]
         print(host)
 
-    global visited_email, emails
+    global visited_email, emailsx
     visited_email.add(url)
 
     content = urlopen(url).read().decode()
@@ -323,7 +324,7 @@ def crawl_email(url, host=''):
             except:
                 pass
 
-    return found_emails
+    return emailsx
 #################################################################### start of 11.7
 ### 11.7 ###
 ############
