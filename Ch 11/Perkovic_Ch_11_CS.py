@@ -326,7 +326,7 @@ def crawl_email(url, host=''):
 
     return emails_x
 
-print(crawl_email('http://britevisuals.com/'))
+# print(crawl_email('http://britevisuals.com/'))
 
 #################################################################### start of 11.25
 ### 11.25 ###
@@ -334,7 +334,7 @@ print(crawl_email('http://britevisuals.com/'))
 print('\nPP 11.25')
 
 visited_retrieve = set()
-
+base_names = set()
 
 def crawl_retrieve(url, host=''):
     """ Takes a URL and a filename and uses urlretrieve() to copy all the web pages from a
@@ -348,11 +348,24 @@ def crawl_retrieve(url, host=''):
         host = match.string[match.start():match.end()]
         print(host)
 
-    global visited_retrieve
+    global visited_retrieve, base_names
     visited_retrieve.add(url)
 
-    filename = findall()
-    urlretrieve(url, filename)
+    links = analyze(url)
+
+    filename = search('/[a-zA-Z]+[^.]', url)
+    # urlretrieve(url, '{}{}'.format(filename.string[filename.start():filename.end()], '.html'))
+    base_names.add(filename)
+
+    for link in links:
+        if link not in visited_email:
+            try:
+                crawl_email(link, host)
+            except:
+                pass
+
+    return base_names
+print(crawl_retrieve('http://britevisuals.com/'))
 
 #################################################################### start of 11.7
 ### 11.7 ###
