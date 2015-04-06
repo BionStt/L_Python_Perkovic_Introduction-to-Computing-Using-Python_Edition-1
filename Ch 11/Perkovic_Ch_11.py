@@ -498,28 +498,32 @@ print(get_content('http://www.nytimes.com/'))
 #############
 print('\nPP 11.22')
 
-# Done in Ch_11_CS
+# 11.22 done in Ch_11_CS
 
 #############
 ### 11.23 ###
 #############
 print('\nPP 11.23')
 
-# done in Ch_11_CS
+# 11.23 done in Ch_11_11.23 and Ch_11_CS
 
 #############
 ### 11.24 ###
 #############
 print('\nPP 11.24')
 
-# done in Ch_11_CS
+# 11.24 done in Ch_11_CS
 
 #############
 ### 11.25 ###
 #############
 print('\nPP 11.25')
 
+# 11.25 done in Ch_11_CS
+
 #############
 ### 11.26 ###
 #############
 print('\nPP 11.26')
+
+# 11.26 done in Ch_11_11.26
