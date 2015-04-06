@@ -5,7 +5,7 @@ __author__ = 'Rolando'
 ##### PG 416 Ch 11 CS                   #####
 #############################################
 
-from urllib.request import urlopen
+from urllib.request import urlopen, urlretrieve
 from html.parser import HTMLParser
 from urllib.parse import urljoin
 from re import findall, search
@@ -327,6 +327,33 @@ def crawl_email(url, host=''):
     return emails_x
 
 print(crawl_email('http://britevisuals.com/'))
+
+#################################################################### start of 11.25
+### 11.25 ###
+#############
+print('\nPP 11.25')
+
+visited_retrieve = set()
+
+
+def crawl_retrieve(url, host=''):
+    """ Takes a URL and a filename and uses urlretrieve() to copy all the web pages from a
+        website, starting from the main web page, to a local folder on the computer
+    """
+
+    if host not in url:
+        return None
+    if host == '':
+        match = search('https?://[^/]+', url)
+        host = match.string[match.start():match.end()]
+        print(host)
+
+    global visited_retrieve
+    visited_retrieve.add(url)
+
+    filename = findall()
+    urlretrieve(url, filename)
+
 #################################################################### start of 11.7
 ### 11.7 ###
 ############
