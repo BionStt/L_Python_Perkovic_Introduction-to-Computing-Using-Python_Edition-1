@@ -353,19 +353,21 @@ def crawl_retrieve(url, host=''):
 
     links = analyze(url)
 
-    filename = search('/[a-zA-Z]+[^.]', url)
-    # urlretrieve(url, '{}{}'.format(filename.string[filename.start():filename.end()], '.html'))
+    filename = search(host + '.+\.', url)
+    filename = filename.string[filename.start() + len(host) + 1:filename.end() - 1].replace('/', '+')
+    urlretrieve(url, '{}{}'.format(filename, '.html'))
     base_names.add(filename)
 
     for link in links:
-        if link not in visited_email:
+        if link not in visited_retrieve:
             try:
-                crawl_email(link, host)
+                crawl_retrieve(link, host)
             except:
                 pass
 
     return base_names
-print(crawl_retrieve('http://britevisuals.com/'))
+
+print(crawl_retrieve('http://reed.cs.depaul.edu/lperkovic/one.html'))
 
 #################################################################### start of 11.7
 ### 11.7 ###
