@@ -1,3 +1,5 @@
+import turtle
+
 __author__ = 'Rolando'
 #######################################
 ### Perkovic Intro to Python        ###
@@ -5,7 +7,7 @@ __author__ = 'Rolando'
 ##### PG 82 CH 3 Case Study       #####
 #######################################
 
-import turtle
+# import turtle
 
 
 def jump(w, x, y):

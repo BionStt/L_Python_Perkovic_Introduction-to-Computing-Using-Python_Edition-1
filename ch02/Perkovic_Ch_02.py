@@ -1,4 +1,4 @@
-# coding=utf-8
+import math
 __author__ = 'Rolando'
 ####################################
 ### Perkovic Intro to Python     ###
@@ -212,7 +212,7 @@ print(sum(grades) / len(grades))
 ############
 print('\nPP 2.10')
 
-import math
+# import math       // at top of file
 
 x = 1
 y = 2
@@ -318,7 +318,7 @@ print(c)
 # C
 inventory = ['paper', 'staples', 'pencils']
 print(inventory)
-#D
+# D
 first = 'John'
 middle = 'Fitzgerald'
 last = 'Kennedy'
@@ -451,7 +451,7 @@ lst = [3, 7, -2, 12, 9]
 print(lst.index(sorted(lst)[len(lst) // 2]))
 # B
 print(sorted(lst)[len(lst) // 2])
-#C
+# C
 print(sorted(lst, reverse=True))
 
 ############

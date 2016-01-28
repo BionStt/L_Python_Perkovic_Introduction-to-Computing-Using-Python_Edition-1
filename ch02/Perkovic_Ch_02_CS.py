@@ -1,11 +1,13 @@
+import turtle
+
 __author__ = 'Rolando'
+
 ####################################
 ### Perkovic Intro to Python     ###
 #### CH 2: Python Data types    ####
 ##### PG 41 CH 2               #####
 ####################################
 
-import turtle
 
 s = turtle.Screen()
 
@@ -261,7 +263,7 @@ u.penup()
 u.goto(-200, -300)
 u.left(45)
 
-#put turtle v under waves
+# put turtle v under waves
 v.penup()
 v.goto(0, -300)
 v.left(45)

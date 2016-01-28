@@ -69,7 +69,7 @@ if year % 4 == 0:
 else:
     print('Definitely not a leap year.')  # otherwise, print 'Definitely not a leap year.'
 
-#B
+# B
 ticket = [1, 2, 3]
 lottery = [1, 2, 4]
 
@@ -156,7 +156,7 @@ print('\nPP 3.9')
 
 def perimeter(r):
     """
-    :param 1: radius
+    :param r: radius
     :return:  perimeter
     """
     import math
@@ -457,13 +457,13 @@ print(prob(2))
 print(prob(3))
 
 
-############xxx
-### 3.34 ###xxx
+############ xxx
+### 3.34 ### xxx
 ############
 print('\nPP 3.34')
 
 
-#def reverse_int(i1):
+# def reverse_int(i1):
 #    """
 #    :param i1: integer
 #    :return:   integer with digits reversed
@@ -473,7 +473,7 @@ print('\nPP 3.34')
 #        result = result + (i1 // (10 ** i))
 #    return result
 
-#print(reverse_int(123))
+# print(reverse_int(123))
 
 ############
 ### 3.35 ###
