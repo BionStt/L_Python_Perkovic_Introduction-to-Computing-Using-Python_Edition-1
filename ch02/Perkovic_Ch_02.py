@@ -1,3 +1,4 @@
+# coding=utf-8
 __author__ = 'Rolando'
 ####################################
 ### Perkovic Intro to Python     ###
